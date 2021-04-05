@@ -1,1 +1,0 @@
-/usr/bin/c++   -pedantic -Werror -Wall -Wextra -Wno-unused-command-line-argument -Wshadow -Wnon-virtual-dtor -g   CMakeFiles/lab7.dir/sources/lab7.cpp.o  -o lab7  /home/taric/.hunter/_Base/35fa55b/252be92/b78b2c5/Install/lib/libboost_thread-mt-d-x64.a -lpthread 

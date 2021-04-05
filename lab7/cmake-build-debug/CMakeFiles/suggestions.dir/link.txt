@@ -1,2 +1,0 @@
-/usr/bin/ar qc libsuggestionsd.a  CMakeFiles/suggestions.dir/sources/suggestions.cpp.o
-/usr/bin/ranlib libsuggestionsd.a
